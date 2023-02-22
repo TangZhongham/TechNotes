@@ -5,6 +5,8 @@
 > 做那个code 阅读器作为练手项目，但是感觉还是没大到可以花钱当开发者的程度。
 > 苹果财报分析
 
+0222: create a gr3 to gr2 photo mimic app。use a ML model
+
 从宏观到微观，调查研究一下。
 
 
